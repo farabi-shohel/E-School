@@ -1,0 +1,11 @@
+Websites Important Notes
+========================
+
+Color====
+	Black #000000;
+	green #21B573;
+	Orange #FD511A;
+
+Fonts====
+	poppins		font-family: 'Poppins', sans-serif;
+	Roboto		font-family: 'Roboto', sans-serif;
